@@ -1,0 +1,2 @@
+# REEETbot
+A discord bot
